@@ -1,6 +1,6 @@
 package programmerWayForJava.chapter02;
 
-public class test2_7 {
+public class test2_8 {
     public static void main(String[] args) {
         int a = 3;
          
@@ -108,6 +108,7 @@ public class test2_7 {
             
             eeStart = eeCount;
             ee = 1;
+            
 ////////////////////////////////////////////////////////////////  3번쨰 * 출력
             
             

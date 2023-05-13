@@ -67,20 +67,20 @@ public class test2_6 {
             }
 
             b += 1;
-            // bCondition = b;
+            
             bStart += 1;
             bStart = bCount;
             
             for (int t = eStart; t <= eCondition; t++) {
                 
                 System.out.print("" + c + "");
-                eStart += t;
+                
                 
             }
             
             e += 2;
             eCondition = e;
-            eStart += 2;
+            
             eStart = eCount;
             tCondition += 2;
             
@@ -102,13 +102,11 @@ public class test2_6 {
             for (int t = eeStart; t <= eeCondition; t++) {
                 
                 System.out.print(c );
-                eeStart += t;
                 
             }
 
             ee += 2;
             eeCondition = ee;
-            eeStart += 2;
             eeStart = eeCount;
             ttCondition += 2;
             
@@ -158,7 +156,6 @@ public class test2_6 {
             }
 
             b += 1;
-            vStart += 1;
             vStart = vCount;
 
             tCondition -= 2;
@@ -181,7 +178,6 @@ public class test2_6 {
             }
 
             bbv += 2;
-            vvStart += 1;
             vvStart = vvCount;
 
             ttCondition -= 2;
